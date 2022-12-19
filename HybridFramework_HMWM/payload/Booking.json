@@ -1,0 +1,11 @@
+    {
+        "firstname": "Wakil",
+        "additionalneeds": "dinner",
+        "bookingdates": {
+            "checkin": "2021-05-02",
+            "checkout": "2021-05-05"
+        },
+        "totalprice": 123,
+        "depositpaid": false,
+        "lastname": "Khan"
+    }
